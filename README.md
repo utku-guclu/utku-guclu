@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @utku-guclu
+- 👋 Hi, I’m Utku.
 - 👀 I’m interested in programming.
-- 🌱 I’m currently learning javascript and python
+- 🌱 I’m currently learning Javascript and Python.
 - 💞️ I’m looking to collaborate on new projects.
 - 📫 How to reach me >>> utku_guclu@hotmail.com
 
