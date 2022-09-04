@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Utku.
 - 👀 I’m interested in programming.
-- 🌱 I’m currently learning Javascript and Python.
+- 🌱 I love Javascript and React.
 - 💞️ I’m looking to collaborate on new projects.
 - 📫 How to reach me >>> utku_guclu@hotmail.com
 
