@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Utku.
-- 👀 I’m interested in Javascript.
+- 👋 Hi, I’m Utku. Frontend Developer
+- 👀 I use Javascript & React.
 - 🌱 I'm currently learning React and GraphQL.
 - 💞️ I’m looking to collaborate on new projects.
 - 📫 How to reach me >>> utku_guclu@hotmail.com
