@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Utku. Frontend Developer
-- 👀 My tech stacks Javascript & React / Node.js.
+- 👀 My tech stacks are Javascript & React / Node.js.
 - 🌱 I'm currently learning GraphQL.
 - 💞️ I’m looking to collaborate on new projects.
 - 📫 How to reach me >>> utku_guclu@hotmail.com
