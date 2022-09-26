@@ -1,6 +1,6 @@
 # <p>👋 Hi, I’m Utku.</p>
 ## <p>Frontend Developer</p>
-- 👀 My tech stacks are Javascript & React / Node.js.
+- 👀 My tech stacks are <strong>Javascript & React / Node.js</strong>.
 - 🌱 I'm currently learning GraphQL.
 - 💞️ I’m looking to collaborate on new projects.
 - 👤 <a href="https://utku-guclu.github.io/about-me/">About-me</a>
