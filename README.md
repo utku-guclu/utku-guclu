@@ -1,5 +1,5 @@
-# <p align="center">👋 Hi, I’m Utku.</p>
-## <p align="center">Frontend Developer</p>
+# <p>👋 Hi, I’m Utku.</p>
+## <p>Frontend Developer</p>
 - 👀 My tech stacks are Javascript & React / Node.js.
 - 🌱 I'm currently learning GraphQL.
 - 💞️ I’m looking to collaborate on new projects.
