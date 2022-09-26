@@ -2,9 +2,10 @@
 - 👀 My tech stacks are Javascript & React / Node.js.
 - 🌱 I'm currently learning GraphQL.
 - 💞️ I’m looking to collaborate on new projects.
-- 👤 About-me        >>> https://utku-guclu.github.io/about-me/
-- ☕ Portfolio       >>> https://utku-guclu.github.io/portfolio/
-- 🐱‍👤 HackerRank      >>> https://www.hackerrank.com/utkuguclu/
+- 👤 About-me        >>>  https://utku-guclu.github.io/about-me/
+- ☕ Portfolio       >>>  https://utku-guclu.github.io/portfolio/
+- 🐱‍👤 HackerRank      >>>  https://www.hackerrank.com/utkuguclu/
+- 🌷 Linkedin        >>>  https://www.linkedin.com/in/utkuin/
 - 📫 How to reach me >>> utku_guclu@hotmail.com
 
 
