@@ -1,12 +1,13 @@
-- 👋 Hi, I’m Utku. Frontend Developer
+# <p align="center">👋 Hi, I’m Utku.</p>
+## <p align="center">Frontend Developer</p>
 - 👀 My tech stacks are Javascript & React / Node.js.
 - 🌱 I'm currently learning GraphQL.
 - 💞️ I’m looking to collaborate on new projects.
-- 👤 About-me        >>>  https://utku-guclu.github.io/about-me/
-- ☕ Portfolio       >>>  https://utku-guclu.github.io/portfolio/
-- 🐱‍👤 HackerRank      >>>  https://www.hackerrank.com/utkuguclu/
-- 🌷 Linkedin        >>>  https://www.linkedin.com/in/utkuin/
-- 📫 How to reach me >>> utku_guclu@hotmail.com
+- 👤 <a href="https://utku-guclu.github.io/about-me/">About-me</a>
+- ☕ <a href="https://utku-guclu.github.io/portfolio/">Portfolio</a>
+- 🐱‍👤 <a href="https://www.hackerrank.com/utkuguclu/">HackerRank</a>     
+- 🌷 <a href="https://www.linkedin.com/in/utkuin/">Linkedin</a>       
+- 📫 <a href="utku_guclu@hotmail.com">How to reach me</a>
 
 
 <!---
