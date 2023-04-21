@@ -62,7 +62,7 @@
   <a href="https://www.hackerrank.com/utkuguclu/">
     <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank"/>
   </a>
-   <a href="https://codesandbox.io/u/Utku">
+   <a href="https://replit.com/@stanger307/">
     <img src="https://img.shields.io/badge/-Replit-white?style=for-the-badge&logo=Replit&logoColor=black" alt="Replit"/>
   </a>
   <a href="https://codesandbox.io/u/Utku">
