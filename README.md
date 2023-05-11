@@ -12,7 +12,7 @@
 
 - :seedling: I'm currently learning GraphQL.
 
-- 👀 In my free time, I solve problems on HackerRank and chill.
+- 👀 In my free time, I solve problems and chill.
 
 - :mailbox: <a href="utku_guclu@hotmail.com">How to reach me</a>
 
