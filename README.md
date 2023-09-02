@@ -10,7 +10,7 @@
 
 - :telescope: I’m working as a freelance developer and contributing to frontend web applications.
 
-- :seedling: I'm currently learning GraphQL.
+- :seedling: I'm currently learning Cloud Computing.
 
 - 👀 In my free time, I solve problems and chill.
 
