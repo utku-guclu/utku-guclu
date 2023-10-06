@@ -55,10 +55,10 @@
   <a href="https://www.linkedin.com/in/utkuin/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.youtube.com/c/CoreValue666">
+  <a href="https://www.youtube.com/c/CoreValue666/">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a href="https://twitter.com/pisokrates">
+  <a href="https://twitter.com/pisokrates/">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
   <a href="https://www.hackerrank.com/utkuguclu/">
@@ -67,10 +67,10 @@
    <a href="https://replit.com/@stanger307/">
     <img src="https://img.shields.io/badge/-Replit-white?style=for-the-badge&logo=Replit&logoColor=black" alt="Replit"/>
   </a>
-  <a href="https://codesandbox.io/u/Utku">
+  <a href="https://codesandbox.io/u/Utku/">
     <img src="https://img.shields.io/badge/-Codesandbox-black?style=for-the-badge&logo=Codesandbox&logoColor=white" alt="CodeSandBox"/>
   </a>
-    <a href="https://codesandbox.io/u/Utku">
+    <a href="https://darkofee.bandcamp.com/">
     <img src="https://img.shields.io/badge/bandcamp-gray?style=for-the-badge&logo=Bandcamp&logoColor=blue" alt="Bandcamp"/>
   </a>
 </div>
