@@ -46,9 +46,10 @@
 
 ---
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=utku-guclu&theme=gruvbox_duo&hide_border=true)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=utku-guclu&layout=compact&theme=gruvbox&)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=utku-guclu&theme=gruvbox_duo&hide_border=true)](https://git.io/streak-stats)
+
 
 
 <div id="badges">
