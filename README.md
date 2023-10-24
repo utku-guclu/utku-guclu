@@ -4,7 +4,7 @@
 
 # 👋 Hi, I’m Utku.
 ## Frontend Developer
-
+(Fullstack Intern) HP-appen
 
 ### 👤 <a href="https://utku-guclu.github.io/about-me/">About-me</a>
 
