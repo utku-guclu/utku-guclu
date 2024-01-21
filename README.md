@@ -7,7 +7,7 @@
 
 ### 👤 <a href="https://utku-guclu.github.io/about-me/">About-me</a>
 
-- :telescope: I’m working as a freelance developer and contributing to frontend web applications.
+- :telescope: I’m working as a freelance developer and contributing to web applications.
 
 - :seedling: I'm currently learning Cloud Computing.
 
