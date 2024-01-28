@@ -9,7 +9,7 @@
 
 - :telescope: I’m working as a freelance developer and contributing to web applications.
 
-- :seedling: I'm currently learning Cloud Computing.
+- :seedling: I'm currently learning Go.
 
 - 👀 In my free time, I solve problems and chill.
 
