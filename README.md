@@ -24,6 +24,8 @@
 
 > [Inertia](https://pisokrates.itch.io/inertia)👾
 
+> [NASA APOD](https://nasa-api-54xas6tema-ey.a.run.app)👾 
+
 
 ### :surfer: My stacks 
 <div>
