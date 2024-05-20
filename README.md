@@ -3,7 +3,7 @@
 </div>
 
 # 👋 Hi, I’m Utku.
-## Fullstack Developer Intern (HP-appen)
+## Fullstack Programming Practitioner
 
 ### 👤 <a href="https://utku-guclu.github.io/about-me/">About-me</a>
 
