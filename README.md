@@ -15,11 +15,8 @@
 
 - :mailbox: <a href="mailto:utku_guclu@hotmail.com">How to reach me</a>
 
-<!-- 
-- ☕ <a href="https://utku-guclu.github.io/portfolio/">Portfolio</a> 
--->
 
-- ☕ <a href="https://portfolio-theta-rouge-57.vercel.app/">Portfolio</a> 
+- ☕ <a href="https://utku-guclu.github.io/portfolio/">Portfolio</a> 
 
 
 ### 🎯 Projects
