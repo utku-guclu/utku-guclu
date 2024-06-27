@@ -6,7 +6,7 @@
 ## Fullstack Programming Practitioner
 
 <!--### 👤 <a href="https://utku-guclu.github.io/about-me/">About-me</a> -->
-### 👤 <a href="https://portfolio-iqbprcn6zq-ey.a.run.app/">About-me</a>
+### 👤 <a href="https://utkudev.com/">About-me</a>
 
 - :telescope: I’m working as a freelance developer and contributing to web applications.
 
@@ -18,7 +18,7 @@
 
 
 <!-- ☕ <a href="https://utku-guclu.github.io/portfolio/">Portfolio</a> -->
-- ☕ <a href="https://portfolio-iqbprcn6zq-ey.a.run.app/">Portfolio</a> 
+- ☕ <a href="https://utkudev.com/">Portfolio</a> 
 
 
 ### 🎯 Projects
