@@ -14,7 +14,7 @@
 
 - 👀 In my free time, I solve problems and chill.
 
-- :mailbox: <a href="mailto:utku_guclu@hotmail.com">How to reach me</a>
+- :mailbox: <a href="mailto:hello@utkudev.com">How to reach me</a>
 
 
 <!-- ☕ <a href="https://utku-guclu.github.io/portfolio/">Portfolio</a> -->
