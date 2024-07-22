@@ -3,14 +3,14 @@
 </div>
 
 # 👋 Hi, I’m Utku.
-## Fullstack Programming Practitioner
+## Fullstack Developeer
 
 <!--### 👤 <a href="https://utku-guclu.github.io/about-me/">About-me</a> -->
 ### 👤 <a href="https://utkudev.com/">About-me</a>
 
-- :telescope: I’m working as a freelance developer and contributing to web applications.
+- :telescope: I’m a self-taught developer.
 
-- :seedling: I'm currently practicing.
+- :seedling: I'm currently learning practicing.
 
 - 👀 In my free time, I solve problems and chill.
 
