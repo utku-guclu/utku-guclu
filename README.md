@@ -10,7 +10,7 @@
 
 - :telescope: I’m a self-taught developer.
 
-- :seedling: I'm currently learning practicing.
+- :seedling: I'm currently learning LLM🤯.
 
 - 👀 In my free time, I solve problems and chill.
 
