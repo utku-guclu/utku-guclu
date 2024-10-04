@@ -22,6 +22,8 @@
 
 
 ### 🎯 Projects
+> [Job Finder](https://job-finder-brown.vercel.app/)👨‍💻
+
 > [Dream Analyser](https://amidreaming.netlify.app/)💤
 
 > [Hydration Tracker](https://hydration-tracker.vercel.app/)💧
