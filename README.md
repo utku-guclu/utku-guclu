@@ -30,7 +30,9 @@
 
 > [Inertia](https://pisokrates.itch.io/inertia)👾
 
-> [NASA APOD](https://nasa-api-54xas6tema-ey.a.run.app)🔭 
+> [NASA APOD](https://nasa-api-54xas6tema-ey.a.run.app)🔭
+
+> [VIDEO DIARY](https://github.com/utku-guclu/video-diary)🎥  
 
 
 ### :surfer: My stacks 
