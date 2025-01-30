@@ -22,6 +22,8 @@
 
 
 ### 🎯 Projects
+> [Sky Explorer](https://sky-explorer.vercel.app/)✈️
+
 > [Job Finder](https://job-finder-brown.vercel.app/)👨‍💻
 
 > [Dream Analyser](https://amidreaming.netlify.app/)💤
