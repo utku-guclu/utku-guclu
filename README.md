@@ -10,7 +10,7 @@
 
 - :telescope: I’m a self-taught developer.
 
-- :seedling: I'm currently deep learning🤯.
+- 👨‍🔬 I love science.
 
 - 👀 In my free time, I solve problems and chill.
 
