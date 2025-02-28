@@ -22,6 +22,8 @@
 
 
 ### 🎯 Projects
+> [Trade Order Service](https://github.com/utku-guclu/trade-order-service)⚙
+
 > [Sky Explorer](https://sky-explorer.vercel.app/)✈️
 
 > [Job Finder](https://job-finder-brown.vercel.app/)👨‍💻
