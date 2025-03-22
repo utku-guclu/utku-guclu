@@ -22,6 +22,8 @@
 
 
 ### 🎯 Projects
+> [Flash Memory App](https://github.com/utku-guclu/memory-flashcard-app)🃏
+
 > [Trade Order Service](https://github.com/utku-guclu/trade-order-service)⚙
 
 > [Sky Explorer](https://sky-explorer.vercel.app/)✈️
