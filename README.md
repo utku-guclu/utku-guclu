@@ -3,7 +3,7 @@
 </div>
 
 # 👋 Hi, I’m Utku.
-## Developer
+<!--## Developer
 
 <!--### 👤 <a href="https://utku-guclu.github.io/about-me/">About-me</a> -->
 ### 👤 <a href="https://utkudev.com/">About-me</a>
