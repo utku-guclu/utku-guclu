@@ -6,7 +6,7 @@
 <!--## Developer
 
 <!--### 👤 <a href="https://utku-guclu.github.io/about-me/">About-me</a> -->
-### 👤 <a href="https://utkudev.com/">About-me</a>
+### 👤 <a href="http://about-me-utkuguclus-projects.vercel.app">About-me</a>
 
 - :telescope: I’m a self-taught developer.
 
@@ -14,11 +14,11 @@
 
 - 👀 In my free time, I solve problems and chill.
 
-- :mailbox: <a href="mailto:hello@utkudev.com">How to reach me</a>
+- :mailbox: <a href="mailto:utkug3lu@gmail.com">How to reach me</a>
 
 
 <!-- ☕ <a href="https://utku-guclu.github.io/portfolio/">Portfolio</a> -->
-- ☕ <a href="https://utkudev.com/">Portfolio</a> 
+- ☕ <a href="http://about-me-utkuguclus-projects.vercel.app">Portfolio</a> 
 
 
 ### 🎯 Projects
