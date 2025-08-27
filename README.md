@@ -6,7 +6,7 @@
 <!--## Developer
 
 <!--### 👤 <a href="https://utku-guclu.github.io/about-me/">About-me</a> -->
-### 👤 <a href="http://about-me-utkuguclus-projects.vercel.app">About-me</a>
+### 👤 <a href="https://about-me-git-production-utkus-projects-ea09c59b.vercel.app">About-me</a>
 
 - :telescope: I’m a self-taught developer.
 
@@ -18,7 +18,7 @@
 
 
 <!-- ☕ <a href="https://utku-guclu.github.io/portfolio/">Portfolio</a> -->
-- ☕ <a href="http://about-me-utkuguclus-projects.vercel.app">Portfolio</a> 
+- ☕ <a href="https://about-me-git-production-utkus-projects-ea09c59b.vercel.app">Portfolio</a> 
 
 
 ### 🎯 Projects
